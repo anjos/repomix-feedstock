@@ -24,7 +24,7 @@ requirements:
   host:
     - nodejs
   run:
-    - nodejs
+    - nodejs >=22
 
 tests:
   - script:
